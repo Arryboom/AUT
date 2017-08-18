@@ -1,4 +1,6 @@
 # AUT
+#A Simple Tool to Add User On Windows  
+
 AUT-LITE-1.1
 -----------------------------------------------
 -h    &nbsp;&nbsp;&nbsp;&nbsp;This help text    
@@ -29,9 +31,9 @@ add user and set to administrators:
 aut -aa jason pa33w0rd
 
 
- 
-Size: 1626112 bytes  
-File Version: 1.1.0.0  
-MD5: F13234921CC60460D18343DCD6C973EF  
-SHA1: ED266380C12EAA582F919417695F557C3907AA1D  
-CRC32: 06D304C1  
+------------------------------------
++Size: 1626112 bytes  
+File Version: 1.1.0.0  
+MD5: F13234921CC60460D18343DCD6C973EF  
+SHA1: ED266380C12EAA582F919417695F557C3907AA1D 
++CRC32: 06D304C1  
