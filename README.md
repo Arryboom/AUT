@@ -3,7 +3,7 @@
 
 **AUT-LITE-1.1**
 
-|     Params      | Readme                                       |
+|     Params      | Means                                       |
 | :----------: | ---------------------------------------- |
 |   -h   | This help text  |
 | -a | Add user |
