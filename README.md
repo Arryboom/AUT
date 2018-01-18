@@ -1,8 +1,8 @@
 # AUT
-#A Simple Tool use WINAPI to Add User On Windows  
+# A Simple Tool use WINAPI to Add User On Windows  
 
-AUT-LITE-1.1
------------------------------------------------
+**AUT-LITE-1.1**
+-
 -h    &nbsp;&nbsp;&nbsp;&nbsp;This help text    
 -a    &nbsp; &nbsp;&nbsp;&nbsp;Add user   
 -d    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Del user  
@@ -12,8 +12,8 @@ AUT-LITE-1.1
 -ar   &nbsp;&nbsp;&nbsp;&nbsp;Add a user to Administrators and Remote Desktop Users Group  
 -ag   &nbsp; &nbsp;Add a user to a Specific Group,Can use RDP to replace "Remote Desktop Users"  
 -aa   &nbsp; &nbsp;Add a user and add to Administrators Group at the same time  
-
-Example:
+-
+**Example:**
 
 add user:  
 aut -a jason pa33w0rd
