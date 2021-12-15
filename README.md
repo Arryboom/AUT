@@ -1,5 +1,5 @@
 # AUT
-### A Simple Tool use WINAPI to Add User On Windows,Could bypass some AV or HIPS
+### A Simple Tool use WINAPI to Add User On Windows,able to bypass some AV or HIPS
 
 **AUT-LITE-1.1**
 
